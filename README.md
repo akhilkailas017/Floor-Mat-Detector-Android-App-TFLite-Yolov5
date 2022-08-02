@@ -13,7 +13,7 @@
 - output file name is app-debug.apk
 - copy this file to your android device and install it.
 
-References
+**References**
 
 - Object Detection using Yolov5 : https://github.com/akhilkailas2001/Object-Detection-using-Yolov5.git
 - TFLite Object Detection Android App YOLOv5 : https://github.com/akhilkailas2001/TFLite-Object-Detection-Android-App-YOLOv5.git
